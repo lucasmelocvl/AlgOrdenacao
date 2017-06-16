@@ -1,6 +1,5 @@
 #Makefile
 #Lucas Melo e Mayko de Oliveira
-#1305093 e 1104675
 #
 #Para compilar basta digitar no terminal: make [-NomeDoTarget-]
 #
